@@ -1,6 +1,6 @@
 - 👋 Hello, my name is João Pedro Castilho
-- 👀 I’m interested in robotics and automation
-- 🌱 I’m currently studying Eletrical and Computer Engineering and I'm on my 4th year
+- 👀 I’m interested in robotics and automation and in this repo you can find some of my work that I developed during some courses.
+- 🌱 I’m currently studying Eletrical and Computer Engineering and I'm on my 4th year.
 - 📫 Email: jpccastilho1999@gmail.com
 
 <!---
