@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and automation and in this repo you can find some of my work that I developed during some courses
       and some personal projects.
 - 🌱 I’m currently studying Eletrical and Computer Engineering and I'm on my 4th year.
-- 📫 Email: jpccastilho1999@gmail.com\\
+- 📫 Email: jpccastilho1999@gmail.com  
       LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-castilho/
 
 <!---
