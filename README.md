@@ -3,7 +3,7 @@
       and some personal projects.
 - 🌱 I’m currently studying Eletrical and Computer Engineering and I'm on my 4th year.
 - 📫 Email: jpccastilho1999@gmail.com  
-      LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-castilho/
+            LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-castilho/
 
 <!---
 ccpjboss/ccpjboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
